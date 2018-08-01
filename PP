@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Novedades Cricc's </title>
+    <style>
+     div # top {
+       background-color: darkgray;
+       background-position: top;
+       width: auto;
+       height: 250px;
+     }
+     div # post {
+       background-color: black;
+       width: auto;
+       height: 500px;
+       margin-top: 250px
+     }
+    </style>
+  </head>
+</html>
